@@ -1,0 +1,33 @@
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\AdrianaCatia\Proj-AdrianaCatia\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\AdrianaCatia\Proj-AdrianaCatia\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\AdrianaCatia\Proj-AdrianaCatia\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\AdrianaCatia\Proj-AdrianaCatia\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\AdrianaCatia\Proj-AdrianaCatia\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\AdrianaCatia\Proj-AdrianaCatia\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\AdrianaCatia\Proj-AdrianaCatia\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\AdrianaCatia\Proj-AdrianaCatia\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\AdrianaCatia\Proj-AdrianaCatia\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\AdrianaCatia\Proj-AdrianaCatia\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\AdrianaCatia\Proj-AdrianaCatia\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto Grupo3 - Fatores\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto Grupo3 - Fatores\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto Grupo3 - Fatores\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto Grupo3 - Fatores\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto Grupo3 - Fatores\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto Grupo3 - Fatores\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto Grupo3 - Fatores\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto Grupo3 - Fatores\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto Grupo3 - Fatores\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto Grupo3 - Fatores\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto Grupo3 - Fatores\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\obj\Debug\Assembly-CSharp-firstpass.pdb

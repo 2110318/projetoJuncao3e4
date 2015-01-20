@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\VidasScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\VidasScript.cs" Line="46" Column="1" />
+      <File FileName="Assets\PickUpObjects.cs" Line="82" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto Grupo3 - Fatores\Assets\Scripts\VidasScript.cs" line="46" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

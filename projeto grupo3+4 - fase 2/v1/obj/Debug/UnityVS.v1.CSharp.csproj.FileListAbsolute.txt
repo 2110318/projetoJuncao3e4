@@ -1,0 +1,11 @@
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\obj\Debug\UnityVS.v1.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\obj\Debug\Assembly-CSharp.dll
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Carlos Silva\Documents\_UNITY-PROJECTS\Projeto - fase 2\v1\Temp\UnityVS_bin\Debug\UnityEditor.xml
