@@ -164,6 +164,7 @@
     <Compile Include="Assets\Sample Assets\Vehicles\Rolling Ball\Scripts\Ball.cs" />
     <Compile Include="Assets\Sample Assets\Vehicles\Rolling Ball\Scripts\BallUserControl.cs" />
     <Compile Include="Assets\Scripts\GroundController.cs" />
+    <Compile Include="Assets\Scripts\MenuBotao.cs" />
     <Compile Include="Assets\Scripts\SceneController.cs" />
     <Compile Include="Assets\Scripts\TimedDestroy.cs" />
     <Compile Include="Assets\Scripts\VidasScript.cs" />

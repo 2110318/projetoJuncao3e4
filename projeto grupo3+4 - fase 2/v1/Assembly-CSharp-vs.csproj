@@ -147,6 +147,7 @@
      <Compile Include="Assets\Sample Assets\Vehicles\Rolling Ball\Scripts\Ball.cs" />
      <Compile Include="Assets\Sample Assets\Vehicles\Rolling Ball\Scripts\BallUserControl.cs" />
      <Compile Include="Assets\Scripts\GroundController.cs" />
+     <Compile Include="Assets\Scripts\MenuBotao.cs" />
      <Compile Include="Assets\Scripts\SceneController.cs" />
      <Compile Include="Assets\Scripts\TimedDestroy.cs" />
      <Compile Include="Assets\Scripts\VidasScript.cs" />
@@ -180,7 +181,7 @@
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\Depth.shader" />
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\ColorFilter.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/wrt/Desktop/projetoJuncao3e4/projeto grupo3+4 - fase 2/v1/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/Users/Paula/Desktop/projetoJuncao3e4/projeto grupo3+4 - fase 2/v1/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
