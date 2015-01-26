@@ -3,6 +3,7 @@ using System.Collections;
 
 public class MenuBotao : MonoBehaviour {
 
+
 	// Use this for initialization
 	void Start () {
 	
@@ -24,10 +25,13 @@ public class MenuBotao : MonoBehaviour {
 
 		if (GUI.Button (new Rect (58, 85, 100, 50),"Single-Player")) {
 			PlayerPrefs.SetString("Player","Single");
+			Gestao_Players.isMultiPlayer=false;
+
 			Application.LoadLevel("Perfis");		
 		}
 		if (GUI.Button (new Rect (58, 180, 100, 50),"Multi - Player")) {
 			PlayerPrefs.SetString("Player","Multi");
+			Gestao_Players.isMultiPlayer=true;
 			Application.LoadLevel("perfis");		
 		}
 

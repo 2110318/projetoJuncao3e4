@@ -11,7 +11,7 @@ public class ativarPlayer_script : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         AutoCam cam = GetComponent<AutoCam>();
-        switch (PlayerPrefs.GetString("Player"))
+        switch (PlayerPrefs.GetString("PlayerSelected"))
         {
             case "1": P1.SetActive(true);
                 cam.SetTarget(P1.transform);

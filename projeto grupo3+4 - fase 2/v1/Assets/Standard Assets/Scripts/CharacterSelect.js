@@ -11,7 +11,7 @@ var character4Glow : GameObject;
 
 function Start()
 {
-PlayerPrefs.SetString("Player",  "1");
+PlayerPrefs.SetString("PlayerSelected",  "1");
 character1Glow.renderer.enabled = true;  // We're going to make sure all of the highlighted glows are OFF at scene start.
 character2Glow.renderer.enabled = false;
 character3Glow.renderer.enabled = false;
@@ -49,7 +49,7 @@ function SelectedCharacter1() {
 				character2Glow.renderer.enabled = false;
 				character3Glow.renderer.enabled = false;
 				character4Glow.renderer.enabled = false; 
-				PlayerPrefs.SetString("Player",  "1");
+				PlayerPrefs.SetString("PlayerSelected",  "1");
 }
 
 function SelectedCharacter2() {
@@ -58,7 +58,7 @@ function SelectedCharacter2() {
 				character1Glow.renderer.enabled = false;
 				character3Glow.renderer.enabled = false;
 				character4Glow.renderer.enabled = false;
-				PlayerPrefs.SetString("Player",  "2");
+				PlayerPrefs.SetString("PlayerSelected",  "2");
 }
 
 function SelectedCharacter3() {
@@ -67,7 +67,7 @@ function SelectedCharacter3() {
 				character1Glow.renderer.enabled = false;
 				character2Glow.renderer.enabled = false;
 				character4Glow.renderer.enabled = false;
-				PlayerPrefs.SetString("Player",  "3");
+				PlayerPrefs.SetString("PlayerSelected",  "3");
 }
 
 function SelectedCharacter4() {
@@ -76,5 +76,5 @@ function SelectedCharacter4() {
 				character3Glow.renderer.enabled = false;
 				character2Glow.renderer.enabled = false;
 				character1Glow.renderer.enabled = false;
-				PlayerPrefs.SetString("Player",  "4");
+				PlayerPrefs.SetString("PlayerSelected",  "4");
 }

@@ -44,7 +44,7 @@ public class Botao : MonoBehaviour {
 			Application.Quit();		
 		}
 		if (GUI.Button (new Rect (250, 300, 80, 50),"Jogar")) {
-			Application.LoadLevel("Selecionar_Player");		
+			Application.LoadLevel("MenuPrincipal");		
 		}
 		
 	}

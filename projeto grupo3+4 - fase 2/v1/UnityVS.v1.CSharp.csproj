@@ -65,6 +65,8 @@
   <ItemGroup>
     <Compile Include="Assets\Botao.cs" />
     <Compile Include="Assets\CameraController.cs" />
+    <Compile Include="Assets\Gestao_Perfis.cs" />
+    <Compile Include="Assets\Gestao_Players.cs" />
     <Compile Include="Assets\ItemRotator.cs" />
     <Compile Include="Assets\ItemRotator_Moeda.cs" />
     <Compile Include="Assets\MixamoAnimatorEvents\AnimEvent.cs" />

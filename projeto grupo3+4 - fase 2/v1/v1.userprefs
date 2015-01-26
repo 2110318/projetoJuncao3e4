@@ -1,14 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sample Assets\Characters\Third Person Character\Scripts\ThirdPersonCharacter.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\_Paula_v1\Assets\Sample Assets\Characters\Third Person Character\Scripts\ThirdPersonCharacter.cs">
     <Files>
-      <File FileName="Assets\PickUpItems.cs" Line="1" Column="1" />
-      <File FileName="Assets\PickUpObjects.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\VidasScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\floating_object_js.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\MenuBotao.cs" Line="30" Column="42" />
-      <File FileName="Assets\Botao.cs" Line="47" Column="44" />
-      <File FileName="Assets\Sample Assets\Characters\Third Person Character\Scripts\ThirdPersonCharacter.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\_Paula_v1\Assets\Sample Assets\Characters\Third Person Character\Scripts\ThirdPersonCharacter.cs" Line="350" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
